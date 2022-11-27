@@ -11319,7 +11319,17 @@ const city=
         "name": "Яхрома",
         "population": 13818,
         "subject": "Московская область"
-    }
+    },
+    {
+        "coords": {
+            "lat": "48.02",
+            "lon": "37,80"
+        },
+        "district": "Южный",
+        "name": "ДонецкДНР",
+        "population": 46741,
+        "subject": "Донецкая Область"
+    },
 ]
 
 module.exports.city=city;
